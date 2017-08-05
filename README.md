@@ -1,5 +1,5 @@
 # Sycamore_Translation
->叫，sycmore？
+>叫，sycamore？
 >
 >这个词正好是*悬铃木*
 
